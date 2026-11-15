@@ -744,3 +744,4 @@ html[data-mode="dark"] .hero{--hs1:#08111f;--hs2:#1a2a41;--hh1:#4d4634;--hh2:#3d
 .menu .mdrop a.mcta:hover{background:var(--cta-h)}
 .menu .mdrop a.mcta svg,.menu .mdrop a.mcta .ic{color:currentColor !important}
 .insc{background:var(--insc,#1d3a7c)}
+a.btn{text-decoration:none;display:inline-block}.card p a:not(.btn){color:var(--blue);text-underline-offset:2px}

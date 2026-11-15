@@ -29,6 +29,7 @@ Cada texto existe em três línguas. Em `js/app.js` e `js/dados.js` aparecem com
 - Mapas: dados © OpenStreetMap contributors (ODbL).
 - Letras: SIL Open Font License.
 - Fotografias: as suas, exceto as dos painéis da exposição do mosteiro e as fotografias de terceiros dos arredores (por exemplo, o interior da Igreja Matriz do Crato, de Rui Ponte e Sousa, 2017). Antes de publicar o site, confirme que pode usá-las.
+- «A aldeia e a pousada»: resumo, por palavras próprias, de Ema Pires e Mafalda Salgueiro (ilustrações), «Coisas engalanadas, pessoas e processos turísticos: uma revisitação etnográfica de Flor da Rosa (Sul de Portugal)», Etnográfica 25 (1), 2021, doi:10.4000/etnografica.9893. O texto do artigo tem licença CC BY-NC 4.0; os desenhos de Mafalda Salgueiro não estão incluídos.
 
 ## In English
 

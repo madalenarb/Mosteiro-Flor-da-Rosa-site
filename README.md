@@ -13,6 +13,7 @@ The site is in Portuguese, English and Dutch.
 - **How it grew:** every wall coloured by building period, conjectural reconstructions of the first three phases, elevations, a section and the towers.
 - **The 1615 plan:** Pedro Nunes Tinoco's manuscript plan, with every note transcribed and translated, and the matching view of the monastery on a Portalegre tapestry.
 - **Stories:** histories, traditions and legends, each with its sources and how far it can be trusted.
+- **The village and the pousada:** a summary of an ethnographic study that compares Flor da Rosa in 1998 and 2018, with a link to the article.
 - **The Order:** the Hospitallers from Jerusalem to Malta and the Priory of Crato, with maps of the Holy Land and of the Order's commanderies in Portugal.
 - **Visiting:** the town walk from Flor da Rosa to Crato, the Historical Route to the Anta do Tapadão dolmen (PR1 CRT), places to eat, and how to book the Pousada.
 
@@ -44,6 +45,7 @@ In the repository, open **Settings → Pages**, set **Source** to *Deploy from a
 ## Sources and credits
 
 - History: the monastery's exhibition panels and chronology; Jorge Rodrigues and Paulo Pereira, *O Mosteiro de Flor da Rosa: do Priorado do Crato ao Panteão de Álvaro Gonçalves Pereira* (By the Book, 2023); Paula Pinto Costa (2014); SIPA and Património Cultural; Crato council. Each story on the site lists its own sources.
+- The village and the pousada: Ema Pires and Mafalda Salgueiro (illustrations), «Coisas engalanadas, pessoas e processos turísticos: uma revisitação etnográfica de Flor da Rosa (Sul de Portugal)», *Etnográfica* 25 (1), 2021, pp. 149–171, [doi:10.4000/etnografica.9893](https://doi.org/10.4000/etnografica.9893). The site summarises the article in its own words; the article's text is under CC BY-NC 4.0. Mafalda Salgueiro's drawings are not included.
 - Maps: data © OpenStreetMap contributors, available under the Open Database Licence (ODbL).
 - Fonts: SIL Open Font License, via Fontsource.
 - Photographs: by the author unless stated. Photos of the exhibition panels and some photos of the surroundings belong to their owners, for example the interior of the Igreja Matriz do Crato by Rui Ponte e Sousa (2017).
